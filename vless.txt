@@ -1,0 +1,2 @@
+vless://3f3c021d-4d90-46ac-8853-95d471d9dbb7@lv1.souji.ga:8443?flow=xtls-rprx-origin&encryption=none&security=xtls&type=tcp&headerType=none&host=lv1.souji.ga#to.vultr.cyou+%e9%94%82%e4%ba%91vless1
+vless://35c69c3e-85d8-4232-9644-ec20a667fecc@lv2.souji.ga:7443?flow=xtls-rprx-origin&encryption=none&security=xtls&type=tcp&headerType=none&host=lv2.souji.ga#to.vultr.cyou+%e9%94%82%e4%ba%91vless2
