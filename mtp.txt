@@ -1,1 +1,1 @@
-https://t.me/proxy?server=mtp.sg-1.vultr.cyou&port=10269&secret=ee3e7089e8297330e78ddd383c062c3b616177732e616d617a6f6e2e636f6d
+https://t.me/proxy?server=121.12.172.2&port=11059&secret=ee2f61ffe3f5b7e79f1f61db49c0d8131b7265732e77782e71712e636f6d
